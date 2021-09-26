@@ -3,3 +3,5 @@
 - Founder @ **Exvoid Network**,
 - Co-Owner @ **BlackTeam Corporation**,
   - *Lead Developer & Community Manager for Block Fortress.* 
+
+Unrelated to programming but also interested in becoming a structured cabling technician.
