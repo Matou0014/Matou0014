@@ -9,7 +9,7 @@ const config = {
   title: 'Mathias Pepin-Leduc',
   tagline: 'Where all my random stuff is stored.',
   url: 'https://matou0014.github.io',
-  baseUrl: '/matou0014',
+  baseUrl: '/matou0014/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
