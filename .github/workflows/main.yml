@@ -2,9 +2,9 @@ name: deploy-docusaurus
 
 on:
   push:
-    branches: [master]
+    branches: [wiki]
   pull_request:
-    branches: [master]
+    branches: [wiki]
   workflow_dispatch:
 
 jobs:
