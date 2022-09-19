@@ -1,13 +1,7 @@
-### I'm Mathias Pepin-Leduc, an 18 years old aspired full stack programmer and Linux enthusiast.
+### I'm Mathias Pepin-Leduc, a 19 years old aspired TypeScript and Rust programmer.
 
-Currently using EndeavourOS and Manjaro as my main OS with Debian 11 for my own server.
+*I use Arch btw*
 
 ### Projects
-- Founder @ **[Exvoid Network](https://github.com/ExvoidNet)**
+- Owner @ **[Exvoid Network](https://github.com/ExvoidNet)**
 - Staff @ **[Feedbacky](https://github.com/feedbacky-project)**
-
-### Language Wishlist
-- `Java`
-- `TypeScript`
-- `JavaScript`
-- `Rust`
